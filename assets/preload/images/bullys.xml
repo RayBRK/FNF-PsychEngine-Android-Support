@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bullys.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Brother and friends instance 10000" x="0" y="360" width="654" height="360" frameX="-26" frameY="0" frameWidth="696" frameHeight="360"/>
+	<SubTexture name="Brother and friends instance 10001" x="0" y="360" width="654" height="360" frameX="-26" frameY="0" frameWidth="696" frameHeight="360"/>
+	<SubTexture name="Brother and friends instance 10002" x="0" y="360" width="654" height="360" frameX="-26" frameY="0" frameWidth="696" frameHeight="360"/>
+	<SubTexture name="Brother and friends instance 10003" x="0" y="0" width="696" height="360"/>
+	<SubTexture name="Brother and friends instance 10004" x="0" y="0" width="696" height="360"/>
+	<SubTexture name="Brother and friends instance 10005" x="0" y="0" width="696" height="360"/>
+	<SubTexture name="Brother and friends instance 10006" x="0" y="360" width="654" height="360" frameX="-26" frameY="0" frameWidth="696" frameHeight="360"/>
+	<SubTexture name="Brother and friends instance 10007" x="0" y="360" width="654" height="360" frameX="-26" frameY="0" frameWidth="696" frameHeight="360"/>
+	<SubTexture name="Brother and friends instance 10008" x="0" y="360" width="654" height="360" frameX="-26" frameY="0" frameWidth="696" frameHeight="360"/>
+	<SubTexture name="Brother and friends instance 10009" x="0" y="0" width="696" height="360"/>
+	<SubTexture name="Brother and friends instance 10010" x="0" y="0" width="696" height="360"/>
+	<SubTexture name="Brother and friends instance 10011" x="0" y="0" width="696" height="360"/>
+</TextureAtlas>

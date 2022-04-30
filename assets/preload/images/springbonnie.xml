@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="springbonnie.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="spring bonnie instance 10000" x="463" y="0" width="424" height="444" frameX="0" frameY="0" frameWidth="468" frameHeight="444"/>
+	<SubTexture name="spring bonnie instance 10001" x="463" y="0" width="424" height="444" frameX="0" frameY="0" frameWidth="468" frameHeight="444"/>
+	<SubTexture name="spring bonnie instance 10002" x="463" y="0" width="424" height="444" frameX="0" frameY="0" frameWidth="468" frameHeight="444"/>
+	<SubTexture name="spring bonnie instance 10003" x="463" y="0" width="424" height="444" frameX="0" frameY="0" frameWidth="468" frameHeight="444"/>
+	<SubTexture name="spring bonnie instance 10004" x="463" y="0" width="424" height="444" frameX="0" frameY="0" frameWidth="468" frameHeight="444"/>
+	<SubTexture name="spring bonnie instance 10005" x="463" y="0" width="424" height="444" frameX="0" frameY="0" frameWidth="468" frameHeight="444"/>
+	<SubTexture name="spring bonnie instance 10006" x="463" y="0" width="424" height="444" frameX="0" frameY="0" frameWidth="468" frameHeight="444"/>
+	<SubTexture name="spring bonnie instance 10007" x="463" y="0" width="424" height="444" frameX="0" frameY="0" frameWidth="468" frameHeight="444"/>
+	<SubTexture name="spring bonnie instance 10008" x="463" y="0" width="424" height="444" frameX="0" frameY="0" frameWidth="468" frameHeight="444"/>
+	<SubTexture name="spring bonnie instance 10009" x="463" y="0" width="424" height="444" frameX="0" frameY="0" frameWidth="468" frameHeight="444"/>
+	<SubTexture name="spring bonnie instance 10010" x="463" y="0" width="424" height="444" frameX="0" frameY="0" frameWidth="468" frameHeight="444"/>
+	<SubTexture name="spring bonnie instance 10011" x="0" y="0" width="463" height="444" frameX="-5" frameY="0" frameWidth="468" frameHeight="444"/>
+	<SubTexture name="spring bonnie instance 10012" x="0" y="0" width="463" height="444" frameX="-5" frameY="0" frameWidth="468" frameHeight="444"/>
+	<SubTexture name="spring bonnie instance 10013" x="0" y="0" width="463" height="444" frameX="-5" frameY="0" frameWidth="468" frameHeight="444"/>
+	<SubTexture name="spring bonnie instance 10014" x="0" y="0" width="463" height="444" frameX="-5" frameY="0" frameWidth="468" frameHeight="444"/>
+	<SubTexture name="spring bonnie instance 10015" x="0" y="0" width="463" height="444" frameX="-5" frameY="0" frameWidth="468" frameHeight="444"/>
+	<SubTexture name="spring bonnie instance 10016" x="0" y="0" width="463" height="444" frameX="-5" frameY="0" frameWidth="468" frameHeight="444"/>
+	<SubTexture name="spring bonnie instance 10017" x="0" y="0" width="463" height="444" frameX="-5" frameY="0" frameWidth="468" frameHeight="444"/>
+	<SubTexture name="spring bonnie instance 10018" x="0" y="0" width="463" height="444" frameX="-5" frameY="0" frameWidth="468" frameHeight="444"/>
+	<SubTexture name="spring bonnie instance 10019" x="0" y="0" width="463" height="444" frameX="-5" frameY="0" frameWidth="468" frameHeight="444"/>
+	<SubTexture name="spring bonnie instance 10020" x="0" y="0" width="463" height="444" frameX="-5" frameY="0" frameWidth="468" frameHeight="444"/>
+	<SubTexture name="spring bonnie instance 10021" x="0" y="0" width="463" height="444" frameX="-5" frameY="0" frameWidth="468" frameHeight="444"/>
+</TextureAtlas>
