@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fredbear.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name=" Fredbear Right instance 10000" x="0" y="0" width="470" height="466"/>
+	<SubTexture name=" Fredbear Right instance 10001" x="0" y="0" width="470" height="466"/>
+	<SubTexture name=" Fredbear Right instance 10002" x="438" y="840" width="421" height="466" frameX="0" frameY="0" frameWidth="470" frameHeight="466"/>
+	<SubTexture name=" Fredbear Right instance 10003" x="438" y="840" width="421" height="466" frameX="0" frameY="0" frameWidth="470" frameHeight="466"/>
+	<SubTexture name=" Fredbear Right instance 10004" x="831" y="374" width="437" height="466" frameX="0" frameY="0" frameWidth="470" frameHeight="466"/>
+	<SubTexture name=" Fredbear Right instance 10005" x="831" y="374" width="437" height="466" frameX="0" frameY="0" frameWidth="470" frameHeight="466"/>
+	<SubTexture name=" Fredbear Right instance 10006" x="831" y="374" width="437" height="466" frameX="0" frameY="0" frameWidth="470" frameHeight="466"/>
+	<SubTexture name=" Fredbear Right instance 10007" x="831" y="374" width="437" height="466" frameX="0" frameY="0" frameWidth="470" frameHeight="466"/>
+	<SubTexture name=" Fredbear Right instance 10008" x="831" y="374" width="437" height="466" frameX="0" frameY="0" frameWidth="470" frameHeight="466"/>
+	<SubTexture name=" Fredbear Right instance 10009" x="831" y="374" width="437" height="466" frameX="0" frameY="0" frameWidth="470" frameHeight="466"/>
+	<SubTexture name=" Fredbear Right instance 10010" x="831" y="374" width="437" height="466" frameX="0" frameY="0" frameWidth="470" frameHeight="466"/>
+	<SubTexture name="Fredbear Down instance 10000" x="1040" y="0" width="510" height="364" frameX="0" frameY="-54" frameWidth="510" frameHeight="418"/>
+	<SubTexture name="Fredbear Down instance 10001" x="1040" y="0" width="510" height="364" frameX="0" frameY="-54" frameWidth="510" frameHeight="418"/>
+	<SubTexture name="Fredbear Down instance 10002" x="1268" y="771" width="420" height="418" frameX="-45" frameY="0" frameWidth="510" frameHeight="418"/>
+	<SubTexture name="Fredbear Down instance 10003" x="1268" y="771" width="420" height="418" frameX="-45" frameY="0" frameWidth="510" frameHeight="418"/>
+	<SubTexture name="Fredbear Down instance 10004" x="1268" y="364" width="440" height="407" frameX="-35" frameY="-11" frameWidth="510" frameHeight="418"/>
+	<SubTexture name="Fredbear Down instance 10005" x="1268" y="364" width="440" height="407" frameX="-35" frameY="-11" frameWidth="510" frameHeight="418"/>
+	<SubTexture name="Fredbear Down instance 10006" x="1268" y="364" width="440" height="407" frameX="-35" frameY="-11" frameWidth="510" frameHeight="418"/>
+	<SubTexture name="Fredbear Down instance 10007" x="1268" y="364" width="440" height="407" frameX="-35" frameY="-11" frameWidth="510" frameHeight="418"/>
+	<SubTexture name="Fredbear Down instance 10008" x="1268" y="364" width="440" height="407" frameX="-35" frameY="-11" frameWidth="510" frameHeight="418"/>
+	<SubTexture name="Fredbear Down instance 10009" x="1268" y="364" width="440" height="407" frameX="-35" frameY="-11" frameWidth="510" frameHeight="418"/>
+	<SubTexture name="Fredbear Idle instance 10000" x="0" y="466" width="831" height="258" frameX="0" frameY="-212" frameWidth="831" frameHeight="470"/>
+	<SubTexture name="Fredbear Idle instance 10001" x="0" y="466" width="831" height="258" frameX="0" frameY="-212" frameWidth="831" frameHeight="470"/>
+	<SubTexture name="Fredbear Idle instance 10002" x="470" y="0" width="570" height="374" frameX="-130" frameY="-96" frameWidth="831" frameHeight="470"/>
+	<SubTexture name="Fredbear Idle instance 10003" x="470" y="0" width="570" height="374" frameX="-130" frameY="-96" frameWidth="831" frameHeight="470"/>
+	<SubTexture name="Fredbear Idle instance 10004" x="1253" y="1295" width="382" height="470" frameX="-225" frameY="0" frameWidth="831" frameHeight="470"/>
+	<SubTexture name="Fredbear Idle instance 10005" x="1253" y="1295" width="382" height="470" frameX="-225" frameY="0" frameWidth="831" frameHeight="470"/>
+	<SubTexture name="Fredbear Idle instance 10006" x="859" y="840" width="409" height="455" frameX="-212" frameY="-15" frameWidth="831" frameHeight="470"/>
+	<SubTexture name="Fredbear Idle instance 10007" x="859" y="840" width="409" height="455" frameX="-212" frameY="-15" frameWidth="831" frameHeight="470"/>
+	<SubTexture name="Fredbear Idle instance 10008" x="859" y="840" width="409" height="455" frameX="-212" frameY="-15" frameWidth="831" frameHeight="470"/>
+	<SubTexture name="Fredbear Idle instance 10009" x="859" y="840" width="409" height="455" frameX="-212" frameY="-15" frameWidth="831" frameHeight="470"/>
+	<SubTexture name="Fredbear Idle instance 10010" x="859" y="840" width="409" height="455" frameX="-212" frameY="-15" frameWidth="831" frameHeight="470"/>
+	<SubTexture name="Fredbear Idle instance 10011" x="859" y="840" width="409" height="455" frameX="-212" frameY="-15" frameWidth="831" frameHeight="470"/>
+	<SubTexture name="Fredbear Idle instance 10012" x="859" y="840" width="409" height="455" frameX="-212" frameY="-15" frameWidth="831" frameHeight="470"/>
+	<SubTexture name="Fredbear Left instance 10000" x="0" y="724" width="438" height="460"/>
+	<SubTexture name="Fredbear Left instance 10001" x="0" y="724" width="438" height="460"/>
+	<SubTexture name="Fredbear Left instance 10002" x="859" y="1295" width="394" height="460" frameX="-44" frameY="0" frameWidth="438" frameHeight="460"/>
+	<SubTexture name="Fredbear Left instance 10003" x="859" y="1295" width="394" height="460" frameX="-44" frameY="0" frameWidth="438" frameHeight="460"/>
+	<SubTexture name="Fredbear Left instance 10004" x="0" y="1184" width="406" height="460" frameX="-32" frameY="0" frameWidth="438" frameHeight="460"/>
+	<SubTexture name="Fredbear Left instance 10005" x="0" y="1184" width="406" height="460" frameX="-32" frameY="0" frameWidth="438" frameHeight="460"/>
+	<SubTexture name="Fredbear Left instance 10006" x="0" y="1184" width="406" height="460" frameX="-32" frameY="0" frameWidth="438" frameHeight="460"/>
+	<SubTexture name="Fredbear Left instance 10007" x="0" y="1184" width="406" height="460" frameX="-32" frameY="0" frameWidth="438" frameHeight="460"/>
+	<SubTexture name="Fredbear Left instance 10008" x="0" y="1184" width="406" height="460" frameX="-32" frameY="0" frameWidth="438" frameHeight="460"/>
+	<SubTexture name="Fredbear Up instance 10000" x="1708" y="0" width="297" height="566" frameX="-43" frameY="0" frameWidth="383" frameHeight="566"/>
+	<SubTexture name="Fredbear Up instance 10001" x="1708" y="0" width="297" height="566" frameX="-43" frameY="0" frameWidth="383" frameHeight="566"/>
+	<SubTexture name="Fredbear Up instance 10002" x="406" y="1306" width="383" height="471" frameX="0" frameY="-95" frameWidth="383" frameHeight="566"/>
+	<SubTexture name="Fredbear Up instance 10003" x="406" y="1306" width="383" height="471" frameX="0" frameY="-95" frameWidth="383" frameHeight="566"/>
+	<SubTexture name="Fredbear Up instance 10004" x="1635" y="1189" width="351" height="482" frameX="-16" frameY="-84" frameWidth="383" frameHeight="566"/>
+	<SubTexture name="Fredbear Up instance 10005" x="1635" y="1189" width="351" height="482" frameX="-16" frameY="-84" frameWidth="383" frameHeight="566"/>
+	<SubTexture name="Fredbear Up instance 10006" x="1635" y="1189" width="351" height="482" frameX="-16" frameY="-84" frameWidth="383" frameHeight="566"/>
+	<SubTexture name="Fredbear Up instance 10007" x="1635" y="1189" width="351" height="482" frameX="-16" frameY="-84" frameWidth="383" frameHeight="566"/>
+	<SubTexture name="Fredbear Up instance 10008" x="1635" y="1189" width="351" height="482" frameX="-16" frameY="-84" frameWidth="383" frameHeight="566"/>
+	<SubTexture name="Fredbear Up instance 10009" x="1635" y="1189" width="351" height="482" frameX="-16" frameY="-84" frameWidth="383" frameHeight="566"/>
+</TextureAtlas>
